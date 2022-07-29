@@ -1,2 +1,0 @@
-# github-ssh-setup
-## anything
