@@ -1,7 +1,7 @@
-# python introduction
-## python variable
-### github setup with https
-#### github setup with ssh
+# Markdown files
+## This will explain some basic .md file syntax
+# # creates a header 
+# ## creates subheaders
 
 - add dash to make bullet points(-)
 
